@@ -1,0 +1,469 @@
+
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] sendMessageWithMention() missing 3 required positional arguments: 'mid', 'firstmessage', and 'lastmessage'
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] name 'kcMID' is not defined
+[<module 'time' (built-in)>] name 'kcMID' is not defined
+[<module 'time' (built-in)>] name 'kcMID' is not defined
+[<module 'time' (built-in)>] name 'kcMID' is not defined
+[<module 'time' (built-in)>] name 'kcMID' is not defined
+[<module 'time' (built-in)>] name 'kc' is not defined
+[<module 'time' (built-in)>] name 'ke' is not defined
+[<module 'time' (built-in)>] name 'kcMID' is not defined
+[<module 'time' (built-in)>] name 'kcMID' is not defined
+[<module 'time' (built-in)>] name 'acil' is not defined
+[<module 'time' (built-in)>] name 'acil' is not defined
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cbde050cffb3978e9cd8f0375e54d65ab', parameterMap={'2': 'cbde050cffb3978e9cd8f0375e54d65ab'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] name 'linegetContact' is not defined
+[<module 'time' (built-in)>] sendMessage() missing 1 required positional argument: 'text'
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] sendMessageWithMention() missing 3 required positional arguments: 'mid', 'firstmessage', and 'lastmessage'
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] sendMessageWithMention() missing 3 required positional arguments: 'mid', 'firstmessage', and 'lastmessage'
+[<module 'time' (built-in)>] 'u60d358cf6b73a82037b41353602819fc'
+[<module 'time' (built-in)>] 'u31701e5ae04ae661311c8c8aa8a0b26f'
+[<module 'time' (built-in)>] 'u8d40bf57fe66cc5d73011187217a4442'
+[<module 'time' (built-in)>] 'u93aa71352e9497d612c98adecdcd374f'
+[<module 'time' (built-in)>] 'u2bb3eaf59fd10d6307c134d408fd104a'
+[<module 'time' (built-in)>] 'u728764f2ebb4f339c7b62c515fdefe64'
+[<module 'time' (built-in)>] 'ud1cb3a3684ae8c58e2183e0851791786'
+[<module 'time' (built-in)>] 'ueae5df48c6531aa0c35edaa514eb2c31'
+[<module 'time' (built-in)>] 'u403a704141602861bbc5cb8743d8c408'
+[<module 'time' (built-in)>] 'u99da8f97300708b08fb16d75b9d5dd0b'
+[<module 'time' (built-in)>] 'ua5d449eaaadc83cdf6c81777ecc2a272'
+[<module 'time' (built-in)>] 'uaeb8f4ae80f2a52bf6573379f7251525'
+[<module 'time' (built-in)>] 'u83b59d8682e43c6c547599ba68972ff8'
+[<module 'time' (built-in)>] 'uf4ceeec7a8f79ecb39fddfb92f1426f7'
+[<module 'time' (built-in)>] 'ud45b75a514cc02582efd422a310c90e5'
+[<module 'time' (built-in)>] 'ub7436d90fab8b28ba3b162d1b8c313d7'
+[<module 'time' (built-in)>] 'u61b5c434dca7896823b91a83a7a58048'
+[<module 'time' (built-in)>] 'u72811f672ea4b4cbabfabf842b4b34c0'
+[<module 'time' (built-in)>] 'u214b165ac75c48f3260a80bdf47f67ad'
+[<module 'time' (built-in)>] TalkException(parameterMap={'2': 'c3db301ac82d230026287bfda45012826'}, reason='You are not related to group: c3db301ac82d230026287bfda45012826', code=10)
+[<module 'time' (built-in)>] sendMessageWithMention() missing 3 required positional arguments: 'mid', 'firstmessage', and 'lastmessage'
+[<module 'time' (built-in)>] sendMessageWithMention() missing 3 required positional arguments: 'mid', 'firstmessage', and 'lastmessage'
+[<module 'time' (built-in)>] 'uff381f856b31e663c106ff1a26b6326e'
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] sendMessageWithMention() missing 3 required positional arguments: 'mid', 'firstmessage', and 'lastmessage'
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] sendMessageWithMention() missing 3 required positional arguments: 'mid', 'firstmessage', and 'lastmessage'
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] TalkException(parameterMap={'2': 'c07540238e0ddffa5187313406f7f3c67'}, code=10, reason='You are not related to group: c07540238e0ddffa5187313406f7f3c67')
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] TalkException(parameterMap=None, code=73, reason='Group size over limit : 1492652780, 669882932')
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] TalkException(parameterMap=None, code=73, reason='Group size over limit : 1492652780, 669882932')
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'data'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] sendMessageWithMention() missing 3 required positional arguments: 'mid', 'firstmessage', and 'lastmessage'
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] sendMessageWithMention() missing 3 required positional arguments: 'mid', 'firstmessage', and 'lastmessage'
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] TalkException(parameterMap={}, code=10, reason='not a member')
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(parameterMap=None, code=73, reason='Prevented join by ticket: 1492582105, 749894931')
+[<module 'time' (built-in)>] TalkException(parameterMap=None, code=73, reason='Prevented join by ticket: 1492654293, 751097203')
+[<module 'time' (built-in)>] TalkException(parameterMap={}, code=10, reason='not a member')
+[<module 'time' (built-in)>] TalkException(parameterMap={'2': 'cd3a4d809e93737e8bda2a1832982e2e9'}, code=10, reason='You are not related to group: cd3a4d809e93737e8bda2a1832982e2e9')
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] TalkException(parameterMap=None, code=6, reason='Invalid length of text: ')
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] TalkException(parameterMap={'2': 'c0c00788ee26afa13767d60429c542826'}, code=10, reason='You are not related to group: c0c00788ee26afa13767d60429c542826')
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] sendMessageWithMention() missing 3 required positional arguments: 'mid', 'firstmessage', and 'lastmessage'
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] TalkException(parameterMap={'2': 'cd3a4d809e93737e8bda2a1832982e2e9'}, code=10, reason='You are not related to group: cd3a4d809e93737e8bda2a1832982e2e9')
+[<module 'time' (built-in)>] sendMessageWithMention() missing 3 required positional arguments: 'mid', 'firstmessage', and 'lastmessage'
+[<module 'time' (built-in)>] sendMessageWithMention() missing 3 required positional arguments: 'mid', 'firstmessage', and 'lastmessage'
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(parameterMap={'2': 'cdabfb49bc8f7faefa0c6263645a1f005'}, code=10, reason='You are not related to group: cdabfb49bc8f7faefa0c6263645a1f005')
+[<module 'time' (built-in)>] TalkException(parameterMap={'2': 'cdabfb49bc8f7faefa0c6263645a1f005'}, code=10, reason='You are not related to group: cdabfb49bc8f7faefa0c6263645a1f005')
+[<module 'time' (built-in)>] TalkException(parameterMap={'2': 'cdabfb49bc8f7faefa0c6263645a1f005'}, code=10, reason='You are not related to group: cdabfb49bc8f7faefa0c6263645a1f005')
+[<module 'time' (built-in)>] TalkException(parameterMap={'2': 'cdabfb49bc8f7faefa0c6263645a1f005'}, code=10, reason='You are not related to group: cdabfb49bc8f7faefa0c6263645a1f005')
+[<module 'time' (built-in)>] TalkException(parameterMap={'2': 'cdabfb49bc8f7faefa0c6263645a1f005'}, code=10, reason='You are not related to group: cdabfb49bc8f7faefa0c6263645a1f005')
+[<module 'time' (built-in)>] TalkException(parameterMap={'2': 'cdabfb49bc8f7faefa0c6263645a1f005'}, code=10, reason='You are not related to group: cdabfb49bc8f7faefa0c6263645a1f005')
+[<module 'time' (built-in)>] TalkException(parameterMap={}, code=10, reason='not a member')
+[<module 'time' (built-in)>] TalkException(parameterMap={'2': 'cdabfb49bc8f7faefa0c6263645a1f005'}, code=10, reason='You are not related to group: cdabfb49bc8f7faefa0c6263645a1f005')
+[<module 'time' (built-in)>] [Errno -3] Temporary failure in name resolution
+[<module 'time' (built-in)>] [Errno -3] Temporary failure in name resolution
+[<module 'time' (built-in)>] [Errno -3] Temporary failure in name resolution
+[<module 'time' (built-in)>] [Errno -3] Temporary failure in name resolution
+[<module 'time' (built-in)>] [Errno -3] Temporary failure in name resolution
+[<module 'time' (built-in)>] [Errno -3] Temporary failure in name resolution
+[<module 'time' (built-in)>] [Errno -3] Temporary failure in name resolution
+[<module 'time' (built-in)>] Can't convert 'NoneType' object to str implicitly
+[<module 'time' (built-in)>] Can't convert 'NoneType' object to str implicitly
+[<module 'time' (built-in)>] Can't convert 'NoneType' object to str implicitly
+[<module 'time' (built-in)>] Can't convert 'NoneType' object to str implicitly
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] name 'helpset' is not defined
+[<module 'time' (built-in)>] name 'helpset' is not defined
+[<module 'time' (built-in)>] name 'helpTextToSpeech' is not defined
+[<module 'time' (built-in)>] name 'helpset' is not defined
+[<module 'time' (built-in)>] name 'helpset' is not defined
+[<module 'time' (built-in)>] name 'helpset' is not defined
+[<module 'time' (built-in)>] sendMessageWithMention() missing 3 required positional arguments: 'mid', 'firstmessage', and 'lastmessage'
+[<module 'time' (built-in)>] name 'helpset' is not defined
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'mid'
+[<module 'time' (built-in)>] name 'helpset' is not defined
+[<module 'time' (built-in)>] name 'helpset' is not defined
+[<module 'time' (built-in)>] TalkException(parameterMap={}, code=10, reason='not a member')
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] TalkException(parameterMap={'2': 'c0c8c74856a3a56ce13b0178f909a47d9'}, code=10, reason='You are not related to group: c0c8c74856a3a56ce13b0178f909a47d9')
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] Can't convert 'NoneType' object to str implicitly
+[<module 'time' (built-in)>] Can't convert 'NoneType' object to str implicitly
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] TalkException(parameterMap=None, code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE')
+[<module 'time' (built-in)>] Can't convert 'NoneType' object to str implicitly
+[<module 'time' (built-in)>] Can't convert 'NoneType' object to str implicitly
+[<module 'time' (built-in)>] Can't convert 'NoneType' object to str implicitly
+[<module 'time' (built-in)>] Can't convert 'NoneType' object to str implicitly
+[<module 'time' (built-in)>] Can't convert 'NoneType' object to str implicitly
+[<module 'time' (built-in)>] TalkException(parameterMap={'2': 'ccea294e7aaee17c6711f521f611bec1a'}, code=10, reason='You are not related to group: ccea294e7aaee17c6711f521f611bec1a')
+[<module 'time' (built-in)>] sendMessageWithMention() missing 3 required positional arguments: 'mid', 'firstmessage', and 'lastmessage'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] 'ub304ad2cf727ef82febbd6ac88642f3f'
+[<module 'time' (built-in)>] 'ub81886b54afe805ed77d2a5232a0fdea'
+[<module 'time' (built-in)>] 'ub81886b54afe805ed77d2a5232a0fdea'
+[<module 'time' (built-in)>] 'u92ab6d7bff1130a8e5a586b9706266a7'
+[<module 'time' (built-in)>] 'u92ab6d7bff1130a8e5a586b9706266a7'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c4121bb6a8c5d456bb4052e9d5dcb11ea', parameterMap={'2': 'c4121bb6a8c5d456bb4052e9d5dcb11ea'})
+[<module 'time' (built-in)>] 'u48f71d8c3d64928114ea55a1dfdfcd3c'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c4121bb6a8c5d456bb4052e9d5dcb11ea', parameterMap={'2': 'c4121bb6a8c5d456bb4052e9d5dcb11ea'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c4121bb6a8c5d456bb4052e9d5dcb11ea', parameterMap={'2': 'c4121bb6a8c5d456bb4052e9d5dcb11ea'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c4121bb6a8c5d456bb4052e9d5dcb11ea', parameterMap={'2': 'c4121bb6a8c5d456bb4052e9d5dcb11ea'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c4121bb6a8c5d456bb4052e9d5dcb11ea', parameterMap={'2': 'c4121bb6a8c5d456bb4052e9d5dcb11ea'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c4121bb6a8c5d456bb4052e9d5dcb11ea', parameterMap={'2': 'c4121bb6a8c5d456bb4052e9d5dcb11ea'})
+[<module 'time' (built-in)>] sendMessageWithMention() missing 3 required positional arguments: 'mid', 'firstmessage', and 'lastmessage'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c4121bb6a8c5d456bb4052e9d5dcb11ea', parameterMap={'2': 'c4121bb6a8c5d456bb4052e9d5dcb11ea'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c4121bb6a8c5d456bb4052e9d5dcb11ea', parameterMap={'2': 'c4121bb6a8c5d456bb4052e9d5dcb11ea'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c4121bb6a8c5d456bb4052e9d5dcb11ea', parameterMap={'2': 'c4121bb6a8c5d456bb4052e9d5dcb11ea'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c4121bb6a8c5d456bb4052e9d5dcb11ea', parameterMap={'2': 'c4121bb6a8c5d456bb4052e9d5dcb11ea'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c4121bb6a8c5d456bb4052e9d5dcb11ea', parameterMap={'2': 'c4121bb6a8c5d456bb4052e9d5dcb11ea'})
+[<module 'time' (built-in)>] 'ubded88d0491b56e25a590ebebbfeadcb'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c4121bb6a8c5d456bb4052e9d5dcb11ea', parameterMap={'2': 'c4121bb6a8c5d456bb4052e9d5dcb11ea'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c4121bb6a8c5d456bb4052e9d5dcb11ea', parameterMap={'2': 'c4121bb6a8c5d456bb4052e9d5dcb11ea'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c4121bb6a8c5d456bb4052e9d5dcb11ea', parameterMap={'2': 'c4121bb6a8c5d456bb4052e9d5dcb11ea'})
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'liff'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'liff'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'liff'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'liff'
